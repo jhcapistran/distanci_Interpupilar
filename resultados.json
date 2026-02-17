@@ -1,10 +1,10 @@
 {
-  "total_mediciones": 80,
-  "media_pixeles": 31.019664764404297,
-  "desviacion_estandar_pixeles": 11.515848159790039,
+  "total_mediciones": 79,
+  "media_pixeles": 30.529346466064453,
+  "desviacion_estandar_pixeles": 10.726612091064453,
   "minimo_pixeles": 1.9318453073501587,
-  "maximo_pixeles": 69.75507354736328,
-  "mediana_pixeles": 34.375911712646484,
+  "maximo_pixeles": 43.82989501953125,
+  "mediana_pixeles": 34.23763656616211,
   "imagen_minimo_ipd": "1764677886000_2.jpeg",
-  "imagen_maximo_ipd": "1764685086000_2.jpeg"
+  "imagen_maximo_ipd": "1764676806000_2.jpeg"
 }

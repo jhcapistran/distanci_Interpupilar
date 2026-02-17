@@ -4,7 +4,7 @@ import numpy as np
 import insightface
 
 # Imagen específica
-IMG_PATH = "/home/capistran/Documents/download_gs_path/streamax_asset_todos/186717_1766332029000_4.jpeg"
+IMG_PATH = "/home/capistran/Documents/download_gs_path/streamax_asset_126414_2/1764673206000_2.jpeg"
 
 # Inicializar con RetinaFace
 app = insightface.app.FaceAnalysis(allowed_modules=['detection'])
